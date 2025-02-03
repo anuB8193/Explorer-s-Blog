@@ -45,10 +45,17 @@ h1 strong {
 }
 
 .planet-card {
-    border: 1px solid #66ccff;
+    border: 1px solid #491caa;
     padding: 10px;
     margin: 10px 0;
     background-color: #222;
+}
+
+.blog-description {
+    font-size: 1.8em; /* Increases size of description text */
+    font-weight: bold;
+    margin: 20px 0;
+    text-align: center;
 }
 
 .blog-links {
@@ -60,6 +67,7 @@ h1 strong {
 .blog-links a {
     color: #66ccff;
     text-decoration: none;
+    font-size: 1.5em;
 }
 
 .blog-links a:hover {
