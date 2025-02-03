@@ -45,7 +45,7 @@ h1 strong {
 }
 
 .planet-card {
-    border: 1px solid #491caa;
+    border: 1px solid #9979de;
     padding: 10px;
     margin: 10px 0;
     background-color: #222;
@@ -65,7 +65,7 @@ h1 strong {
 }
 
 .blog-links a {
-    color: #66ccff;
+    color: #895fd7;
     text-decoration: none;
     font-size: 1.5em;
 }
